@@ -1,3 +1,6 @@
+Please see https://github.com/Eastrall/Rosalina for the home of this project.
+
+
 # Rosalina
 
 [![openupm](https://img.shields.io/npm/v/com.eastylabs.rosalina?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.eastylabs.rosalina/)
